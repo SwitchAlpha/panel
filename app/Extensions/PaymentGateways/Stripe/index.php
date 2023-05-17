@@ -14,9 +14,6 @@ use Stripe\Exception\SignatureVerificationException;
 use Stripe\Stripe;
 use Stripe\StripeClient;
 
-
-
-
 /**
  * @param  Request  $request
  * @param  ShopProduct  $shopProduct
